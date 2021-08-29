@@ -1,4 +1,4 @@
-- 👋 Hi, Nicholas (Nick) Hasty
+- 👋 Hi, my name is Nicholas (Nick) Hasty
 - 👀 I’m interested in web development and e-commerce
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on e-commerce websites
